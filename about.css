@@ -1,0 +1,26 @@
+div{
+    border: 1px darkorchid;
+    
+}
+
+
+.column{
+float: left;
+width: 33.33%;
+padding: auto;
+}
+
+.row
+.fish{
+    width: 400px;
+    min-height: auto;
+}
+.food{
+    width: 400px;
+    min-height: auto;
+}
+.fries{
+    width: 400px;
+    min-height: auto;
+}
+
